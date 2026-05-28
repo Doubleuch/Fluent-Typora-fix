@@ -1,3 +1,11 @@
+# 此分支分享修复亮色模式下重命名选中文件取色异常的问题方法，修复方法为将下面代码段添加到主CSS文件末尾即可
+```css
+.file-tree-rename-div input{
+    color:#000!important
+}
+```
+
+
 ![fluent](/fluent/fluent.png)
 
 # Fluent-Typora
