@@ -1094,3 +1094,6 @@ blockquote>h6:first-child::before {
     display: inline-block;
     margin-right: 4px;
 }
+.file-tree-rename-div input{
+    color:#000!important
+}
